@@ -1,4 +1,4 @@
-package com.howtodoinjava.demo.service;
+package com.test.demo.service;
 
 import java.util.List;
 
