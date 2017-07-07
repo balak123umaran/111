@@ -5,6 +5,9 @@ import java.util.List;
 import com.howtodoinjava.demo.model.DepartmentEntity;
 import com.howtodoinjava.demo.model.EmployeeEntity;
 
+/*
+* test
+**/
 public interface EmployeeDAO 
 {
 	public List<EmployeeEntity> getAllEmployees();
