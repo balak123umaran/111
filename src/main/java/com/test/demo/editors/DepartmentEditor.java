@@ -1,4 +1,4 @@
-package com.howtodoinjava.demo.editors;
+package com.test.demo.editors;
 
 import java.beans.PropertyEditorSupport;
 
