@@ -1,4 +1,4 @@
-package com.howtodoinjava.demo.dao;
+package com.edit.demo.dao;
 
 import java.util.List;
 
