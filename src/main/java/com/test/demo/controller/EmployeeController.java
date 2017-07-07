@@ -1,4 +1,4 @@
-package com.howtodoinjava.demo.controller;
+package com.test.demo.controller;
 
 import java.util.List;
 import java.util.Set;
